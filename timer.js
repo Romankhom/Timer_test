@@ -1,5 +1,5 @@
 const year = new Date().getFullYear();
-const fourthOfJuly = new Date("Jun 29, 2020").getTime();
+const fourthOfJuly = new Date("Jun 29, 2020, 19:15").getTime();
 
 // countdown
 let timer = setInterval(function () {
